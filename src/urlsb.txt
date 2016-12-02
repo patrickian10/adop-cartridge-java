@@ -1,0 +1,3 @@
+ssh://git@newsource.accenture.com/adpjv/deployment.git
+ssh://git@newsource.accenture.com/adpjv/devopsdemo.git
+ssh://git@newsource.accenture.com/adpjv/selenium-test.git
